@@ -76,7 +76,7 @@
 	 	</div><br><br><br><br>
 	 </form>
 	 <?php
-			$conn=mysqli_connect('localhost','root','soumyajha126','registration');
+			$conn=mysqli_connect('localhost','root','pass123','registration');
 			if(isset($_POST["submit"])){
 				$pnr=$_POST['pnr'];
 				$query="SELECT * FROM pass_details WHERE B_id=$pnr";
