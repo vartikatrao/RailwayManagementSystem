@@ -7,16 +7,17 @@ RailConnect is a comprehensive Railway Management System developed using PHP. It
   
 ![image](https://github.com/vartikatrao/RailwayManagementSystem/assets/100116788/1e7f938d-46c2-49f3-83bc-11d09e7870e2)
 <br>
-
+Trains Available <br> 
 ![image](https://github.com/vartikatrao/RailwayManagementSystem/assets/100116788/95e84996-4889-4a8a-953f-997b8903c650)
 <br>
-
+Enter details 
+<br> 
 ![image](https://github.com/vartikatrao/RailwayManagementSystem/assets/100116788/e3a0e92b-3356-4f4f-a05c-b2764ec1e48d)
 <br>
-
+Payment Portal <br>
 ![image](https://github.com/vartikatrao/RailwayManagementSystem/assets/100116788/a6a7a1b5-578e-461f-8f41-3c36694c0fa2)
 <br>
-
+Confirmation of Booking <br>
 ![image](https://github.com/vartikatrao/RailwayManagementSystem/assets/100116788/2c3c3239-6463-4f52-99ee-09bd7c5edce6)
 <br> Book for more than 1 passengers<br>
 
@@ -26,7 +27,7 @@ RailConnect is a comprehensive Railway Management System developed using PHP. It
 ![image](https://github.com/vartikatrao/RailwayManagementSystem/assets/100116788/8b392fe4-2f7d-41f3-9ebb-536b49bc61e2)
 
 
--Get the status of any train with the train number <br> <br> 
+- Get the status of any train with the train number <br> <br> 
 ![image](https://github.com/vartikatrao/RailwayManagementSystem/assets/100116788/d71dd35b-070f-41d4-b6ad-d719cb21a084)
 
 a. Get the train schedule <br> <br> 
@@ -57,4 +58,19 @@ b. Real-time Train Tracker: Tracks trains based on their current location and th
 - PHP 7.0 or higher
 - MySQL (or other compatible relational database)
 - Web server (e.g., Apache)
+
+
+
+## How to run using XAMPP server
+
+- Download XAMPP server at [www.apachefriends.org/download](https://www.apachefriends.org/download.html) 
+- Clone this repository in the htdocs folder of XAMPP
+- Change MySQL password using the XAMPP
+```
+mysqladmin -u root password
+```
+Change password to `pass123`
+- load the `registrations.sql` file into the phpMyAdmin database
+- In your browser enter [http://localhost/RailwayManagementSystem](http://localhost/RailwayManagementSystem)
+  
 
