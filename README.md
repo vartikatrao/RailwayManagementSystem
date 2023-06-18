@@ -3,18 +3,26 @@
 RailConnect is a comprehensive Railway Management System developed using PHP. It aims to streamline and automate various operations and processes involved in the management of a railway system, enhancing efficiency, safety, and the overall user experience.
 
 ## Features
-- Book your ticket <br><br> 
+- Book your ticket <br><br>
+  
 ![image](https://github.com/vartikatrao/RailwayManagementSystem/assets/100116788/1e7f938d-46c2-49f3-83bc-11d09e7870e2)
 <br>
+
 ![image](https://github.com/vartikatrao/RailwayManagementSystem/assets/100116788/95e84996-4889-4a8a-953f-997b8903c650)
-<br> 
+<br>
+
 ![image](https://github.com/vartikatrao/RailwayManagementSystem/assets/100116788/e3a0e92b-3356-4f4f-a05c-b2764ec1e48d)
-<br> 
+<br>
+
 ![image](https://github.com/vartikatrao/RailwayManagementSystem/assets/100116788/a6a7a1b5-578e-461f-8f41-3c36694c0fa2)
-<br> 
+<br>
+
 ![image](https://github.com/vartikatrao/RailwayManagementSystem/assets/100116788/2c3c3239-6463-4f52-99ee-09bd7c5edce6)
 <br> Book for more than 1 passengers<br>
+
 ![image](https://github.com/vartikatrao/RailwayManagementSystem/assets/100116788/5e0e2726-4b7e-46b4-9f6f-002f77a4e3ba)
+<br>
+
 ![image](https://github.com/vartikatrao/RailwayManagementSystem/assets/100116788/8b392fe4-2f7d-41f3-9ebb-536b49bc61e2)
 
 
